@@ -39,6 +39,7 @@ int main() {
     if(f_btn_r){
       printf("fall red\n");
       f_btn_r = 0;
+      
     }
     if(f_btn_g){
       printf("fall green\n");
